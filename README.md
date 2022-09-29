@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 # Hallo Everyone! 
 
-My name is  **Muhammad Ab'Jani**.
+My name is  **Muslim Hakim M**.
 
-I am used to be called **Icappucino**
+I am used to be called **Hakim**
 
 I'm Interest a Web Developer, Mobile Apps Developer, and Photo/Video Editor.
 
@@ -32,15 +32,12 @@ I have some other abilities on
 - UML Design
 
 You can follow my Official Account :
-- [Linkedin](https://www.linkedin.com/in/afjani23)
-- [Telegram](https://t.me/Icappucino7)
-- [Instagram](https://instagram.com/icappucino_)
-- [Collage-Instagram](https://instagram.com/collage_afjani)
-- [Showcase](https://www.showwcase.com/icappucino)
-- [2nd Github](https://github.com/Icoffee7)
+- [Linkedin](https://www.linkedin.com/in/muslim-hakim-6426b523a/)
+- [Instagram](https://www.instagram.com/_mhakimm__/)
+- [Showcase](https://www.showwcase.com/muslimhakimm)
 
 <p align="left">
-<a href="https://github.com/MuslimHakimMU">
+<a href="https://github.com/MuslimHakimM">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuslimHakimM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuslimHakimM&layout=compact&langs_count=8&theme=algolia"/>
 </a>
